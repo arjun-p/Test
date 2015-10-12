@@ -1,5 +1,5 @@
 import unittest
-from Sample import TextBlock
+from Test import TextBlock
 
 
 class TestTextBlock(unittest.TestCase):

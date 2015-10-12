@@ -1,5 +1,5 @@
 import unittest
-from Sample import RaceAvg
+from Test import RaceAvg
 
 
 class TestRaceAvg(unittest.TestCase):
